@@ -4,6 +4,8 @@ description: This post may or may not exist
 date: '2018-09-26'
 ---
 
+![Schroedinger's Cat](./s-cat.jpeg)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu nulla ac lectus vestibulum efficitur sed sit amet magna. Nulla cursus lorem nibh, ullamcorper rutrum arcu ultricies eget. Duis fermentum, nibh nec ornare feugiat, tortor nibh dapibus augue, quis porttitor erat velit sed nunc. Ut ultrices elit a interdum tincidunt. Donec viverra blandit metus, at commodo felis pulvinar sit amet. Donec sit amet mauris pellentesque, rhoncus nisi rutrum, porta ligula. Vivamus luctus mi nec interdum interdum. Aenean non mattis diam. Maecenas tortor ipsum, fringilla aliquet eros in, dapibus bibendum dolor.
 
 Duis venenatis dapibus leo, vitae porttitor sem. Praesent odio odio, varius sit amet suscipit et, dictum nec mi. Duis ante ligula, molestie a bibendum in, ornare in nulla. Fusce augue augue, eleifend quis mi sit amet, egestas rhoncus ipsum. Curabitur orci lorem, volutpat at ultricies non, pellentesque sit amet nunc. Vestibulum ipsum mauris, condimentum ut dictum at, volutpat ut purus. Nam cursus eros tellus, vel molestie ligula pulvinar a.

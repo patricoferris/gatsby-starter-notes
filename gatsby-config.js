@@ -22,7 +22,13 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-remark-prismjs`,
-          `gatsby-remark-katex`
+          `gatsby-remark-katex`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 650,
+            },
+          },
         ]
       }
     },
