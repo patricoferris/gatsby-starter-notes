@@ -23,10 +23,10 @@ const IndexPage = (props) => {
         <h2 style={{textAlign: 'center', fontFamily: 'courier, monospace'}}>Subjects</h2>
         <Accordion>
         {subjects.map((arr, i) => (
-          <AccordionItem>
+          <AccordionItem key={arr[0].node.fields.slug.split('/')[1]}>
             <AccordionItemTitle>{arr[0].node.fields.slug.split('/')[1].toUpperCase()}</AccordionItemTitle>
             {arr.map(({ node }, j) => (
-              <AccordionItemBody>
+              <AccordionItemBody key={node.frontmatter.title}>
                 <Link to={node.fields.slug} className="link" >
                   <div className="post-list">
                     {node.frontmatter.title}
