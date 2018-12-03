@@ -17,7 +17,15 @@ module.exports = {
         display: 'minimal-ui',
       },
     },
-    'gatsby-transformer-remark',
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-prismjs`,
+          `gatsby-remark-katex`
+        ]
+      }
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
